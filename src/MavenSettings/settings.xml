@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>prasad-nexus</id>
+        <username>admin</username>
+        <password>vainavi</password>
+    </server>
+  </servers>
+</settings>
